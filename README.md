@@ -9,8 +9,5 @@ Whether you're an avid reader in search of your next literary adventure or a new
 
 Start your reading adventure today!"
 
-
-
-
-
-
+Instructions:
+Download the .zip file and extract it using 7zip. Run the main code in BOOK_RECOMMENDER_SYSTEM.ipynb and app.py for the HTML code  
